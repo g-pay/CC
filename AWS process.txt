@@ -1,0 +1,27 @@
+pirlogin
+search ec2
+select instances
+launch instance
+name it 
+select ubuntu (free tier)
+create new key value pair and name it same as instance
+2 ticks of http 
+launch instance
+
+
+After creating instance
+sudo su --> to change to root
+apt-get update
+apt-get install apache2
+systemctl start apache2
+systemctl status apache2
+Freecss .zip copy
+wget  paste link
+apt-get install unzip
+ls
+unzip anyfile.zip
+Ls
+mv * /var/www/html
+cd  /var/www/html
+
+Copy public ip and paste it in new tab
