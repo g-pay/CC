@@ -1,0 +1,14 @@
+public class Prac {
+    public static void evenodd(Integer x){
+       Integer y = x/2;
+        System.debug('Number' +y);
+        Integer z = y*2;
+        if(x==z){
+            System.debug('Number is even');
+        } else{
+            System.debug('Number is odd');
+
+        }
+    }
+
+}

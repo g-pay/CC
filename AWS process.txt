@@ -7,6 +7,8 @@ select ubuntu (free tier)
 create new key value pair and name it same as instance
 2 ticks of http 
 launch instance
+click on id 
+then click connect button 
 
 
 After creating instance
