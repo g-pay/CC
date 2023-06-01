@@ -12,3 +12,8 @@ public class Prac {
     }
 
 }
+
+
+//To run program goto debug then execute open anonymous window 
+Prac.evenodd(8);
+then click open log then click debug only
